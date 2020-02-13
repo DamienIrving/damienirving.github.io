@@ -18,6 +18,12 @@ buttons:
       icon: github
       url: 'https://github.com/DamienIrving'
       external_url: true
+    - content: ResearchGate
+      url: 'https://www.researchgate.net/profile/Damien_Irving'
+      external_url: true
+    - content: Blog
+      url: 'https://drclimate.wordpress.com/'
+      external_url: true
 
 # Grid navigation
 grid_navigation:
