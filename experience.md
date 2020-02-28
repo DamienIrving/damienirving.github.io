@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Experience
-description: Education, Employment and Volunteering.
+description: Education, employment and volunteering.
 
 
 # Micro navigation

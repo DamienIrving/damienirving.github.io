@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Damien Irving
-description: Climate scientist, activist, data science educator
+description: Climate scientist, activist, data science educator.
 buttons:
     - content: Email
       url: 'mailto:irving.damien@gmail.com'
