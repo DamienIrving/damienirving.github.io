@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Story
-description: Overview of career and community activities
+description: Overview of career and community activities.
 
 # Micro navigation
 micro_nav: true

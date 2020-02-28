@@ -25,15 +25,15 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Story
-      excerpt: Overview of career and community activities
+      excerpt: Overview of career and community activities.
       cta: Read more
       url: '/story'
     - title: Experience
-      excerpt: Education, Employment and Volunteering
+      excerpt: Education, employment and volunteering.
       cta: Read more
       url: '/experience'
     - title: Publications
-      excerpt: Academic publications, conference presentations and media
+      excerpt: Academic publications, conference presentations and media.
       cta: Read more
       url: '/publications'
 ---

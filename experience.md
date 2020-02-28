@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Experience
-description: Education, Employment and Volunteering
+description: Education, Employment and Volunteering.
 
 
 # Micro navigation
@@ -36,7 +36,7 @@ LaTrobe University (2003-2006)
 
 ## Employment
 
-### Full-time
+#### Full-time
 
 **Postdoctoral Research Associate**,
 [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/),
@@ -49,7 +49,7 @@ University of New South Wales (2019-present)
 CSIRO Marine and Atmospheric Research (2009-2012)
 * Developed regional climate change projections for the [Australian Climate Change Science Program](http://www.cawcr.gov.au/projects/climatechange/) and [Pacific Climate Change Science Program](http://www.pacificclimatechangescience.org/)
 
-### Part-time while studying
+#### Part-time (while studying)
 
 **Research Community Coordinator**, [Research Platform Services](http://its.unimelb.edu.au/research) (2013-2015)
 * Taught computer programming courses to university staff and students
