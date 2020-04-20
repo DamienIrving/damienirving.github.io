@@ -24,9 +24,11 @@ page_nav:
 ### Refereed journal articles
 
 [ORCID](http://orcid.org/0000-0003-1258-5002) | 
-[Publons](https://publons.com/researcher/1172495/damien-irving/) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | 
+[Publons](https://publons.com/researcher/1172495/damien-irving/) | [Google Scholar](https://scholar.google.com/citations?user=Vo2Du7sAAAAJ&hl=en&oi=sra) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | 
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
+
+**Irving D**, Hobbs W, Church J, Zika J (submitted). A mass and energy conservation analysis of drift in the CMIP6 ensemble. *Journal of Climate*. 
 
 **Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
 
