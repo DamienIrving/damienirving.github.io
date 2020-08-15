@@ -36,7 +36,7 @@ looking at Southern Hemisphere planetary waves
 before taking up postdoctoral positions at CSIRO and then UNSW
 to study anthropogenic changes in the global energy and water cycles.
 
-I have a strong interest in scientific computing and open science,
+I have a strong interest in data science education and open/reproducible research,
 so during my spare time I’m an instructor, lesson author and
 regional coordinator with [The Carpentries](https://carpentries.org/),
 maintain a blog ([Dr Climate](http://drclimate.wordpress.com/))
