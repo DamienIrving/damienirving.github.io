@@ -34,8 +34,7 @@ I then completed a PhD at the University of Melbourne
 looking at Southern Hemisphere planetary waves
 (i.e. the winds in the upper atmosphere),
 before taking up postdoctoral positions at CSIRO and then UNSW
-to study the separate influence of greenhouse gases and anthropogenic aerosols
-on ocean temperature and salinity changes.
+to study anthropogenic changes in the global energy and water cycles.
 
 I have a strong interest in scientific computing and open science,
 so during my spare time I’m an instructor, lesson author and
