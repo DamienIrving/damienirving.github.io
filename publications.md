@@ -28,7 +28,7 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-**Irving D**, Hobbs W, Church J, Zika J (submitted). A mass and energy conservation analysis of drift in the CMIP6 ensemble. *Journal of Climate*. 
+**Irving D**, Hobbs W, Church J, Zika J (in press). A mass and energy conservation analysis of drift in the CMIP6 ensemble. *Journal of Climate*. doi:10.1175/JCLI-D-20-0281.1
 
 **Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
 
