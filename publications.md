@@ -38,7 +38,7 @@ Devenyi GA, Emonet R, Harris RM, Hertweck KL, **Irving D**, Milligan I, Wilson G
 
 **Irving D** (2016). [A minimum standard for publishing computational results in the weather and climate sciences](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-15-00010.1). *Bulletin of the American Meteorological Society*. 97, 1149-1158. doi:10.1175/BAMS-D-15-00010.1.
 
-**Irving D**, Simmonds I (2016). [A new method for identifying the Pacific-South American pattern and its influence on regional climate variability](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0843.1). *Journal of Climate*. 29, 6109-6125. doi:10.1175/JCLI-D-15-0843.1 [View [post-print](https://www.authorea.com/users/5641/articles/19382/_show_article) on Authorea.]
+**Irving D**, Simmonds I (2016). [A new method for identifying the Pacific-South American pattern and its influence on regional climate variability](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0843.1). *Journal of Climate*. 29, 6109-6125. doi:10.1175/JCLI-D-15-0843.1
 
 **Irving D**, Simmonds I (2015). [A novel approach to diagnosing Southern Hemisphere planetary wave activity and its influence on regional climate variability](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0287.1). *Journal of Climate*. 28, 9041-9057. doi:10.1175/JCLI-D-15-0287.1.
 
