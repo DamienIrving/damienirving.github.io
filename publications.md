@@ -58,6 +58,11 @@ Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [
 
 **Irving D**, Cook J, Menz H (2006). [Factors associated with chronic plantar heel pain: a systematic review](http://www.jsams.org/article/S1440-2440%2806%2900009-0/abstract). *Journal of Science and Medicine in Sport*. 9, 11-22. doi:10.1016/j.sams.2006.02.004.
 
+### Books
+
+**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (in preparation). *Research Software Engineering with Python*. Taylor & Francis. [[View online](https://merely-useful.github.io/py-rse/)] 
+
+Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9780643107137.
 
 ### Book Chapters
 
@@ -66,11 +71,6 @@ Brown J, Colman R, Katzfey J, **Irving D**, Sen Gupta A, Abbs D, Perkins S (2011
 Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen Gupta A, Church J, Tilbrook B, Zhang X (2011). [Projections based on Global Climate Models](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 145-179. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
 
 **Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
-
-
-### Books
-
-Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9780643107137.
 
 
 ### Refereed conference papers
@@ -92,7 +92,6 @@ Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change 
 ### Invited presentations
 
 **Irving D**, Hennessy K, Brown JN, Brown JR, Sen Gupta A, Perkins S, Muir L, Rischbieth J (2012). [Providing climate projections for individual Pacific island nations: current progress and future directions](http://www.colloque.ird.fr/icshmo-2012/). Paper presented to the *10th International Conference on Southern Hemisphere Meteorology and Oceanography*, Noumea, New-Caledonia.
-
 
 ### Podium presentations
 
@@ -133,6 +132,10 @@ Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change 
 **Irving D**, Cook J, Menz H (2007). Factors associated with chronic plantar heel pain: a matched case control study. Paper presented to the *American College of Sports Medicine Annual Meeting*, New Orleans, Louisianna, USA.
 
 **Irving D**, Cook J, Menz H (2006). Factors associated with chronic plantar heel pain: a matched case control study. Paper presented to the *Asics Conference of Science and Medicine in Sport*, Yanuca, Fiji.
+
+### Lightning talks
+
+**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2020). An open source textbook for research software engineering. Paper presented to the *ARDC Australian eResearch & Data Skills Summit*, Online. 
 
 ### Posters
 
