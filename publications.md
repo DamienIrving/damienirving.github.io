@@ -28,7 +28,7 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-Sohail T, **Irving D**, Zika J, Holmes R, Church J (submitted). Long-term global ocean heat content change driven by sub-polar surface heat fluxes. *Geophysical Research Letters*.
+Sohail T, **Irving D**, Zika J, Holmes R, Church J (submitted). Long-term global ocean heat content change driven by sub-polar surface heat fluxes. *Geophysical Research Letters*. [view [pre-print](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1)]
 
 **Irving D**, Hobbs W, Church J, Zika J (in press). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://journals.ametsoc.org/jcli/article/doi/10.1175/JCLI-D-20-0281.1/). *Journal of Climate*. doi:10.1175/JCLI-D-20-0281.1
 
