@@ -137,9 +137,11 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Lightning talks
 
-**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2020). An open source textbook for research software engineering. Paper presented to the *ARDC Australian eResearch & Data Skills Summit*, Online. 
+**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2020). An open source textbook for research software engineering. Paper presented to the *ARDC Australian eResearch & Data Skills Summit*, Online. [[Recording](https://youtu.be/8M0KQRKomzY)]
 
 ### Posters
+
+**Irving D**, Hobbs W, Church J, Zika J (2020). A mass and energy conservation analysis of drift in the CMIP6 global coupled models. Paper presented to the *AGU Fall Meeting*, Online.
 
 **Irving D**, Wijffels S, Church J (2018). Uptake and storage of excess heat in the climate system. Paper presented to the *WCRP Workshop: The Earth’s Energy Imbalance and Its Implications*, Village by CA, Toulouse, France.
 
