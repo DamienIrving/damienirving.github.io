@@ -74,7 +74,6 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 **Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
 
-
 ### Refereed conference papers
 
 **Irving D**, Simmonds I, Keay K (2010). [Scatterometer-derived Southern Ocean mesoscale cyclone activity over the last decade](http://iopscience.iop.org/1755-1315/11/1/012039). *IOP Confernece Series: Earth and Environmental Science*, 11, 17th AMOS National Conference, Canberra, ACT. doi:10.1088/1755-1315/11/1/012039.
@@ -97,7 +96,9 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Podium presentations
 
-**Irving D**, Hobbs W, Church J, Zika J (2020). A mass and energy conservation analysis of drift in the CMIP6 global coupled models. Paper presented to the joint *AMOS National Conference*, Esplanade Hotel, Fremantle, Western Australia. 
+**Irving D**, Church J, Zika J (2021). Anthropogenic aerosols, greenhouse gases and historical changes in the global water cycle. Paper presented to the *AMOS National Conference*, Online.
+
+**Irving D**, Hobbs W, Church J, Zika J (2020). A mass and energy conservation analysis of drift in the CMIP6 global coupled models. Paper presented to the joint *AMOS National Conference and International Conference on Indian Ocean Meteorology and Oceanography*, Esplanade Hotel, Fremantle, Western Australia. 
 
 **Irving D**, Church J, Zika J, Wijffels S (2020). The separate influence of anthropogenic aerosols and greenhouse gases on forced changes in the global energy and water cycles. Paper presented to the *American Meteorological Society Annual Meeting*, Boston Convention and Exhibition Center, Boston, Massachusetts.
 
@@ -171,13 +172,10 @@ Climate change: the basics. *National Repower Summit*, Australian Youth Climate 
 [Climate change: the basics](http://thestar.com.au/?p=3440). *Climate Change Forum 1: Is it Real?* Groundswell Bass Coast, Wonthaggi Town Hall, 9 May 2012.  
 
 
-
 ### Interviews
 
 [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science). *Talk Python To Me*, podcast, 
 19 October 2017.
-
-Occasional panellist on Science Club. *Evenings with Melanie Tait*, 936 ABC Hobart, 2017-2018.
 
 [How do you stay up to date with digital research skills?](http://www.rrr.org.au/whats-going-on/news/how-do-you-stay-up-to-date-with-digital-research-skills/). *Byte into IT*, RRR Radio, 18 February 2015.
 
