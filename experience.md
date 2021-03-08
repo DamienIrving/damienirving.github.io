@@ -79,7 +79,7 @@ CSIRO Marine and Atmospheric Research (2009-2012)
 * Member of the [interim Board of the Software Carpentry Foundation](http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html) (2014-2015)
 
 **[Research Bazaar](https://resbazblog.wordpress.com/)**  
-* Global coordinator (2015-present) 
+* Global coordinator (2015-2020) 
 
 **[Tasmanian Greens](http://greens.org.au/tas)**
 * Election Coordinator (2018-present)
