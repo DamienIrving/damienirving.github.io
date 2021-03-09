@@ -62,7 +62,7 @@ Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [
 
 ### Books
 
-**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (in preparation). *Research Software Engineering with Python*. Taylor & Francis. [[View online](https://merely-useful.github.io/py-rse/)] 
+**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (in press). *Research Software Engineering with Python*. Taylor & Francis, ISBN: 9780367698348. [[View online](https://merely-useful.github.io/py-rse/)] 
 
 Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9780643107137.
 
