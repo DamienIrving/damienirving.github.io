@@ -30,35 +30,35 @@ page_nav:
 
 Sohail T, **Irving D**, Zika J, Holmes R, Church J (submitted). Long-term global ocean heat content change driven by sub-polar surface heat fluxes. *Geophysical Research Letters*. [view [pre-print](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1)]
 
-**Irving D**, Hobbs W, Church J, Zika J (2021). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://journals.ametsoc.org/jcli/article/doi/10.1175/JCLI-D-20-0281.1/). *Journal of Climate*. 34(8), 3157–3170. doi:10.1175/JCLI-D-20-0281.1
+**Irving D**, Hobbs W, Church J, Zika J (2021). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://doi.org/10.1175/JCLI-D-20-0281.1). *Journal of Climate*. 34(8), 3157–3170. doi:10.1175/JCLI-D-20-0281.1
 
-**Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
+**Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://doi.org/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
 
-**Irving D** (2019). [Python for atmosphere and ocean scientists](https://jose.theoj.org/papers/10.21105/jose.00037). *Journal of Open Source Education*. 2(11), 37. doi:10.21105/jose.00037
+**Irving D** (2019). [Python for atmosphere and ocean scientists](https://doi.org/10.21105/jose.00037). *Journal of Open Source Education*. 2(11), 37. doi:10.21105/jose.00037
 
-Devenyi GA, Emonet R, Harris RM, Hertweck KL, **Irving D**, Milligan I, Wilson G (2018). [Ten simple rules for collaborative lesson development](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963). *PLoS Computational Biology*. 14(3), e1005963. doi:10.1371/journal.pcbi.1005963
+Devenyi GA, Emonet R, Harris RM, Hertweck KL, **Irving D**, Milligan I, Wilson G (2018). [Ten simple rules for collaborative lesson development](https://doi.org/10.1371/journal.pcbi.1005963). *PLoS Computational Biology*. 14(3), e1005963. doi:10.1371/journal.pcbi.1005963
 
-**Irving D** (2016). [A minimum standard for publishing computational results in the weather and climate sciences](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-15-00010.1). *Bulletin of the American Meteorological Society*. 97, 1149-1158. doi:10.1175/BAMS-D-15-00010.1.
+**Irving D** (2016). [A minimum standard for publishing computational results in the weather and climate sciences](https://doi.org/10.1175/BAMS-D-15-00010.1). *Bulletin of the American Meteorological Society*. 97, 1149-1158. doi:10.1175/BAMS-D-15-00010.1
 
-**Irving D**, Simmonds I (2016). [A new method for identifying the Pacific-South American pattern and its influence on regional climate variability](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0843.1). *Journal of Climate*. 29, 6109-6125. doi:10.1175/JCLI-D-15-0843.1
+**Irving D**, Simmonds I (2016). [A new method for identifying the Pacific-South American pattern and its influence on regional climate variability](https://doi.org/10.1175/JCLI-D-15-0843.1). *Journal of Climate*. 29, 6109-6125. doi:10.1175/JCLI-D-15-0843.1
 
-**Irving D**, Simmonds I (2015). [A novel approach to diagnosing Southern Hemisphere planetary wave activity and its influence on regional climate variability](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0287.1). *Journal of Climate*. 28, 9041-9057. doi:10.1175/JCLI-D-15-0287.1.
+**Irving D**, Simmonds I (2015). [A novel approach to diagnosing Southern Hemisphere planetary wave activity and its influence on regional climate variability](https://doi.org/10.1175/JCLI-D-15-0287.1). *Journal of Climate*. 28, 9041-9057. doi:10.1175/JCLI-D-15-0287.1
 
-Grose M, Brown JN, Narsey S, Brown JR, Murphy B, Langlais C, Sen Gupta A, Moise F, **Irving D** (2014). [Assessment of the CMIP5 global climate model simulations of the western tropical Pacific climate system and comparison to CMIP3](http://onlinelibrary.wiley.com/doi/10.1002/joc.3916/abstract). *International Journal of Climatology*. 34, 3382-3399. doi:10.1002/joc.3916.
+Grose M, Brown JN, Narsey S, Brown JR, Murphy B, Langlais C, Sen Gupta A, Moise F, **Irving D** (2014). [Assessment of the CMIP5 global climate model simulations of the western tropical Pacific climate system and comparison to CMIP3](https://doi.org/10.1002/joc.3916). *International Journal of Climatology*. 34, 3382-3399. doi:10.1002/joc.3916
 
 **Irving D**, Whetton P, Moise A (2012). [Climate projections for Australia: a first glance at CMIP5](http://www.bom.gov.au/amoj/papers.php?year=2012). *Australian Meteorological and Oceanographic Journal*. 62, 211-225.
 
-Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [CMIP3 ensemble climate projections over the western tropical Pacific based on model skill](http://www.int-res.com/abstracts/cr/v51/n1/p35-58/). *Climate Research*. 51, 35-38. doi:10.3354/cr01046.
+Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [CMIP3 ensemble climate projections over the western tropical Pacific based on model skill](https://doi.org/10.3354/cr01046). *Climate Research*. 51, 35-38. doi:10.3354/cr01046
 
-**Irving D**, Perkins S, Brown JR, Sen Gupta A, Moise A, Murphy B, Muir L, Colman R, Power S, Delage F, Brown JN (2011). [Evaluating global climate models for the Pacific Island region](http://www.int-res.com/abstracts/cr/v49/n3/p169-187/). *Climate Research*. 49, 169-187. doi: 10.3354/cr01028.
+**Irving D**, Perkins S, Brown JR, Sen Gupta A, Moise A, Murphy B, Muir L, Colman R, Power S, Delage F, Brown JN (2011). [Evaluating global climate models for the Pacific Island region](https://doi.org/10.3354/cr01028). *Climate Research*. 49, 169-187. doi: 10.3354/cr01028
 
-**Irving D**, Simmonds I, Keay K (2010). [Mesoscale cyclone activity over the ice-free Southern Ocean: 1999-2008](http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3628.1). *Journal of Climate*. 23, 5404-5420. doi:10.1175/2010JCLI3628.1.
+**Irving D**, Simmonds I, Keay K (2010). [Mesoscale cyclone activity over the ice-free Southern Ocean: 1999-2008](https://doi.org/10.1175/2010JCLI3628.1). *Journal of Climate*. 23, 5404-5420. doi:10.1175/2010JCLI3628.1
 
-**Irving D**, Cook J, Young M, Menz H (2008). [Impact of chronic plantar heel pain on health-related quality of life](http://www.japmaonline.org/content/98/4/283.abstract). *Journal of the American Podiatric Medical Association*. 98, 283-289.
+**Irving D**, Cook J, Young M, Menz H (2008). [Impact of chronic plantar heel pain on health-related quality of life](https://doi.org/10.7547/0980283). *Journal of the American Podiatric Medical Association*. 98, 283-289. doi:10.7547/0980283
 
-**Irving D**, Cook J, Young M, Menz H (2007). [Obesity and pronated foot type may increase the risk of chronic plantar heel pain: a matched case control study](http://www.biomedcentral.com/1471-2474/8/41). *BMC Musculoskeletal Disorders*. 8, 41. doi:10.1186/1471-2474-8-41.
+**Irving D**, Cook J, Young M, Menz H (2007). [Obesity and pronated foot type may increase the risk of chronic plantar heel pain: a matched case control study](https://doi.org/10.1186/1471-2474-8-41). *BMC Musculoskeletal Disorders*. 8, 41. doi:10.1186/1471-2474-8-41
 
-**Irving D**, Cook J, Menz H (2006). [Factors associated with chronic plantar heel pain: a systematic review](http://www.jsams.org/article/S1440-2440%2806%2900009-0/abstract). *Journal of Science and Medicine in Sport*. 9, 11-22. doi:10.1016/j.sams.2006.02.004.
+**Irving D**, Cook J, Menz H (2006). [Factors associated with chronic plantar heel pain: a systematic review](https://doi.org/10.1016/j.jsams.2006.02.004). *Journal of Science and Medicine in Sport*. 9, 11-22. doi:10.1016/j.sams.2006.02.004
 
 ### Books
 
