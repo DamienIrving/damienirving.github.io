@@ -30,7 +30,7 @@ page_nav:
 
 Sohail T, **Irving D**, Zika J, Holmes R, Church J (submitted). Long-term global ocean heat content change driven by sub-polar surface heat fluxes. *Geophysical Research Letters*. [view [pre-print](https://www.essoar.org/doi/abs/10.1002/essoar.10504695.1)]
 
-**Irving D**, Hobbs W, Church J, Zika J (in press). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://journals.ametsoc.org/jcli/article/doi/10.1175/JCLI-D-20-0281.1/). *Journal of Climate*. doi:10.1175/JCLI-D-20-0281.1
+**Irving D**, Hobbs W, Church J, Zika J (2021). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://journals.ametsoc.org/jcli/article/doi/10.1175/JCLI-D-20-0281.1/). *Journal of Climate*. 34(8), 3157–3170. doi:10.1175/JCLI-D-20-0281.1
 
 **Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
 
