@@ -38,9 +38,12 @@ LaTrobe University (2003-2006)
 
 #### Full-time
 
+**Pangeo Systems Developer**,
+[CSIRO Climate Science Centre](https://www.csiro.au/en/research/environmental-impacts/climate-change/climate-science-centre) (2021-present)
+
 **Postdoctoral Research Associate**,
 [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/),
-University of New South Wales (2019-present)
+University of New South Wales (2019-2021)
 
 **Postdoctoral Research Fellow**,
 [CSIRO Oceans and Atmosphere](https://www.csiro.au/en/Research/OandA) (2016-2019)
