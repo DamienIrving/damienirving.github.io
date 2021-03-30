@@ -42,10 +42,10 @@ and open/reproducible research.
 I’ve been an instructor, lesson author and regional coordinator with
 [The Carpentries](https://carpentries.org/) for many years,
 co-authored the textbook [*Research Software Engineering with Python*](https://merely-useful.tech/py-rse/),
-and maintain an online community resource for
-Python users in atmosphere and ocean science ([PyAOS](https://pyaos.github.io/)).
-I'm also the Communications Coordinator for the
-Australian Meteorological and Oceanographic Society.
+and maintain the [PyAOS](https://pyaos.github.io/) online community resource for
+Python users in atmosphere and ocean science.
+I'm currently putting these skills to use working as a climate data scientist
+with the CSIRO Climate Science Centre.
 
 It's impossible to study climate change and not feel compelled
 to support political candidates fully committed to addressing the problem,
