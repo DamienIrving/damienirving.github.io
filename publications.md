@@ -28,7 +28,7 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-Sohail T, **Irving D**, Zika J, Holmes R, Church J (in press). [Fifty year trends in global ocean heat content traced to surface heat fluxes in the sub‐polar ocean](https://doi.org/10.1029/2020GL091439). *Geophysical Research Letters*. 48(8), e2020GL091439. doi:10.1029/2020GL091439
+Sohail T, **Irving D**, Zika J, Holmes R, Church J (2021). [Fifty year trends in global ocean heat content traced to surface heat fluxes in the sub‐polar ocean](https://doi.org/10.1029/2020GL091439). *Geophysical Research Letters*. 48(8), e2020GL091439. doi:10.1029/2020GL091439
 
 **Irving D**, Hobbs W, Church J, Zika J (2021). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://doi.org/10.1175/JCLI-D-20-0281.1). *Journal of Climate*. 34(8), 3157–3170. doi:10.1175/JCLI-D-20-0281.1
 
