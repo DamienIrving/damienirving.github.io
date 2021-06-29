@@ -64,15 +64,15 @@ Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [
 
 **Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2021). [Research Software Engineering with Python](https://www.routledge.com/Research-Software-Engineering-with-Python-Building-software-that-makes/Irving-Hertweck-Johnston-Ostblom-Wickham-Wilson/p/book/9780367698324). Chapman & Hall / CRC Press, ISBN: 9780367698348. [[free online version](https://merely-useful.github.io/py-rse/)] 
 
-Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9780643107137.
+Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). CSIRO Publishing, ISBN: 9780643107137.
 
 ### Book Chapters
 
-Brown J, Colman R, Katzfey J, **Irving D**, Sen Gupta A, Abbs D, Perkins S (2011). [Climate model reliability](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 97-143. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
+Brown J, Colman R, Katzfey J, **Irving D**, Sen Gupta A, Abbs D, Perkins S (2011). [Climate model reliability](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 97-143. CSIRO Publishing, ISBN: 9781921826733.
 
-Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen Gupta A, Church J, Tilbrook B, Zhang X (2011). [Projections based on Global Climate Models](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 145-179. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
+Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen Gupta A, Church J, Tilbrook B, Zhang X (2011). [Projections based on Global Climate Models](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 145-179. CSIRO Publishing, ISBN: 9781921826733.
 
-**Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. Australian Bureau of Meteorology and Commonwealth Scientific and Industrial Research Organisation, ISBN: 9781921826733.
+**Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. CSIRO Publishing, ISBN: 9781921826733.
 
 ### Refereed conference papers
 
