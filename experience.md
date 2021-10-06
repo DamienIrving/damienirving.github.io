@@ -38,7 +38,7 @@ LaTrobe University (2003-2006)
 
 #### Full-time
 
-**Pangeo Systems Developer**,
+**[Pangeo Systems Developer](https://people.csiro.au/i/d/damien-irving)**,
 [CSIRO Climate Science Centre](https://www.csiro.au/en/research/environmental-impacts/climate-change/climate-science-centre) (2021-present)
 * Data processing and software development for the [Australian Climate Service](https://www.acs.gov.au/)
 
