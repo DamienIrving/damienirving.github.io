@@ -28,7 +28,7 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-Sohail T, Zika J, **Irving D**, Church J (submitted). [Freshwater transport from warm to cold ocean regions amplifying faster than all model estimates](https://doi.org/10.21203/rs.3.rs-723246/v1). doi:10.21203/rs.3.rs-723246/v1
+Sohail T, Zika J, **Irving D**, Church J (submitted). [Observed poleward freshwater transport since 1970](https://doi.org/10.21203/rs.3.rs-723246/v1). doi:10.21203/rs.3.rs-723246/v1
 
 Sohail T, **Irving D**, Zika J, Holmes R, Church J (2021). [Fifty year trends in global ocean heat content traced to surface heat fluxes in the sub‐polar ocean](https://doi.org/10.1029/2020GL091439). *Geophysical Research Letters*. 48(8), e2020GL091439. doi:10.1029/2020GL091439
 
