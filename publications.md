@@ -28,17 +28,19 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-Sohail T, Zika J, **Irving D**, Church J (submitted). [Observed poleward freshwater transport since 1970](https://doi.org/10.21203/rs.3.rs-723246/v1). doi:10.21203/rs.3.rs-723246/v1
+Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (submitted). On the role of weather and sampling in assessing a record-breaking heat extreme. *Environmental Research: Climate.*
+
+Sohail T, Zika J, **Irving D**, Church J (in press). Observed poleward freshwater transport since 1970. *Nature*. [See [preprint](https://doi.org/10.21203/rs.3.rs-723246/v1)]
 
 Sohail T, **Irving D**, Zika J, Holmes R, Church J (2021). [Fifty year trends in global ocean heat content traced to surface heat fluxes in the sub‐polar ocean](https://doi.org/10.1029/2020GL091439). *Geophysical Research Letters*. 48(8), e2020GL091439. doi:10.1029/2020GL091439
 
 **Irving D**, Hobbs W, Church J, Zika J (2021). [A mass and energy conservation analysis of drift in the CMIP6 ensemble](https://doi.org/10.1175/JCLI-D-20-0281.1). *Journal of Climate*. 34(8), 3157–3170. doi:10.1175/JCLI-D-20-0281.1
 
-**Irving D**, Wijffels S, Church JA (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://doi.org/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
+**Irving D**, Wijffels S, Church J (2019). [Anthropogenic aerosols, greenhouse gases and the uptake, transport and storage of excess heat in the climate system](https://doi.org/10.1029/2019GL082015). *Geophysical Research Letters*. 46(9), 4894-4903. doi:10.1029/2019GL082015
 
 **Irving D** (2019). [Python for atmosphere and ocean scientists](https://doi.org/10.21105/jose.00037). *Journal of Open Source Education*. 2(11), 37. doi:10.21105/jose.00037
 
-Devenyi GA, Emonet R, Harris RM, Hertweck KL, **Irving D**, Milligan I, Wilson G (2018). [Ten simple rules for collaborative lesson development](https://doi.org/10.1371/journal.pcbi.1005963). *PLoS Computational Biology*. 14(3), e1005963. doi:10.1371/journal.pcbi.1005963
+Devenyi G, Emonet R, Harris R, Hertweck K, **Irving D**, Milligan I, Wilson G (2018). [Ten simple rules for collaborative lesson development](https://doi.org/10.1371/journal.pcbi.1005963). *PLoS Computational Biology*. 14(3), e1005963. doi:10.1371/journal.pcbi.1005963
 
 **Irving D** (2016). [A minimum standard for publishing computational results in the weather and climate sciences](https://doi.org/10.1175/BAMS-D-15-00010.1). *Bulletin of the American Meteorological Society*. 97, 1149-1158. doi:10.1175/BAMS-D-15-00010.1
 
@@ -46,13 +48,13 @@ Devenyi GA, Emonet R, Harris RM, Hertweck KL, **Irving D**, Milligan I, Wilson G
 
 **Irving D**, Simmonds I (2015). [A novel approach to diagnosing Southern Hemisphere planetary wave activity and its influence on regional climate variability](https://doi.org/10.1175/JCLI-D-15-0287.1). *Journal of Climate*. 28, 9041-9057. doi:10.1175/JCLI-D-15-0287.1
 
-Grose M, Brown JN, Narsey S, Brown JR, Murphy B, Langlais C, Sen Gupta A, Moise F, **Irving D** (2014). [Assessment of the CMIP5 global climate model simulations of the western tropical Pacific climate system and comparison to CMIP3](https://doi.org/10.1002/joc.3916). *International Journal of Climatology*. 34, 3382-3399. doi:10.1002/joc.3916
+Grose M, Brown J, Narsey S, Brown J, Murphy B, Langlais C, Sen Gupta A, Moise F, **Irving D** (2014). [Assessment of the CMIP5 global climate model simulations of the western tropical Pacific climate system and comparison to CMIP3](https://doi.org/10.1002/joc.3916). *International Journal of Climatology*. 34, 3382-3399. doi:10.1002/joc.3916
 
 **Irving D**, Whetton P, Moise A (2012). [Climate projections for Australia: a first glance at CMIP5](http://www.bom.gov.au/amoj/papers.php?year=2012). *Australian Meteorological and Oceanographic Journal*. 62, 211-225.
 
-Perkins S, **Irving D**, Brown JR, Power S, Moise A, Colman R, Smith I (2012). [CMIP3 ensemble climate projections over the western tropical Pacific based on model skill](https://doi.org/10.3354/cr01046). *Climate Research*. 51, 35-38. doi:10.3354/cr01046
+Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [CMIP3 ensemble climate projections over the western tropical Pacific based on model skill](https://doi.org/10.3354/cr01046). *Climate Research*. 51, 35-38. doi:10.3354/cr01046
 
-**Irving D**, Perkins S, Brown JR, Sen Gupta A, Moise A, Murphy B, Muir L, Colman R, Power S, Delage F, Brown JN (2011). [Evaluating global climate models for the Pacific Island region](https://doi.org/10.3354/cr01028). *Climate Research*. 49, 169-187. doi: 10.3354/cr01028
+**Irving D**, Perkins S, Brown JR, Sen Gupta A, Moise A, Murphy B, Muir L, Colman R, Power S, Delage F, Brown J (2011). [Evaluating global climate models for the Pacific Island region](https://doi.org/10.3354/cr01028). *Climate Research*. 49, 169-187. doi: 10.3354/cr01028
 
 **Irving D**, Simmonds I, Keay K (2010). [Mesoscale cyclone activity over the ice-free Southern Ocean: 1999-2008](https://doi.org/10.1175/2010JCLI3628.1). *Journal of Climate*. 23, 5404-5420. doi:10.1175/2010JCLI3628.1
 
