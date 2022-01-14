@@ -12,7 +12,7 @@ doks:
             - item_name: Experience
               item_url: '/experience'
             - item_name: Publications
-              item_url: '/packages'
+              item_url: '/publications'
     footer:
         content:
             logo:
