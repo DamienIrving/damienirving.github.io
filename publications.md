@@ -102,6 +102,8 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Podium presentations
 
+**Irving D** (2022). The PyAOS Census. Paper presented to the *American Meteorological Society Annual Meeting*, Online.
+
 **Irving D**, Church J, Zika J (2021). Anthropogenic aerosols, greenhouse gases and historical changes in the global water cycle. Paper presented to the *AMOS National Conference*, Online.
 
 **Irving D**, Hobbs W, Church J, Zika J (2020). A mass and energy conservation analysis of drift in the CMIP6 global coupled models. Paper presented to the joint *AMOS National Conference and International Conference on Indian Ocean Meteorology and Oceanography*, Esplanade Hotel, Fremantle, Western Australia. 
