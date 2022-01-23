@@ -30,7 +30,7 @@ page_nav:
 
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (submitted). On the role of weather and sampling in assessing a record-breaking heat extreme. *Environmental Research: Climate*.
 
-Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (submitted). Global increase in wildfire risk from compound fire weather and drought. *npj Climate and Atmospheric Science*.
+Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (in press). Global increase in wildfire risk from compound fire weather and drought. *npj Climate and Atmospheric Science*.
 
 Sohail T, Zika J, **Irving D**, Church J (in press). Observed poleward freshwater transport since 1970. *Nature*. [See [preprint](https://doi.org/10.21203/rs.3.rs-723246/v1)]
 
