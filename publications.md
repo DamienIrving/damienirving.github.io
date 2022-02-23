@@ -32,7 +32,7 @@ Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, 
 
 Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (in press). Global increase in wildfire risk from compound fire weather and drought. *npj Climate and Atmospheric Science*.
 
-Sohail T, Zika J, **Irving D**, Church J (in press). Observed poleward freshwater transport since 1970. *Nature*. [See [preprint](https://doi.org/10.21203/rs.3.rs-723246/v1)]
+Sohail T, Zika J, **Irving D**, Church J (2022). [Observed poleward freshwater transport since 1970](https://doi.org/10.1038/s41586-021-04370-w). *Nature*. 602, 617–622. doi:10.1038/s41586-021-04370-w
 
 Sohail T, **Irving D**, Zika J, Holmes R, Church J (2021). [Fifty year trends in global ocean heat content traced to surface heat fluxes in the sub‐polar ocean](https://doi.org/10.1029/2020GL091439). *Geophysical Research Letters*. 48(8), e2020GL091439. doi:10.1029/2020GL091439
 
