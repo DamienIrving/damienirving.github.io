@@ -40,7 +40,7 @@ LaTrobe University (2003-2006)
 
 **[Climate Data Scientist](https://people.csiro.au/i/d/damien-irving)**,
 [CSIRO Climate Science Centre](https://www.csiro.au/en/research/environmental-impacts/climate-change/climate-science-centre) (2021-present)
-* Data processing and software development for the [Australian Climate Service](https://www.acs.gov.au/) and [Climate Resilient Enterprise](https://www.csiro.au/en/about/challenges-missions/climate-mission)
+* Data processing and software development for the [Australian Climate Service](https://www.acs.gov.au/) and [CSIRO Climate Resilient Enterprise](https://www.csiro.au/en/about/challenges-missions/climate-mission)
 
 **Postdoctoral Research Associate**,
 [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/),
@@ -86,9 +86,9 @@ CSIRO Marine and Atmospheric Research (2009-2012)
 * Global coordinator (2015-2020) 
 
 **[Tasmanian Greens](http://greens.org.au/tas)**
-* National Council Delegate for Tasmania (2022-present)
-* Election Coordinator (2018-present)
-* Convenor, Denison Branch (2016-2018)
+* State Convenor (2022-present)
+* State Election Coordinator (2018-present)
+* Branch Convenor (Denison; 2016-2018)
 
 **[Journal of Open Research Software](http://openresearchsoftware.metajnl.com/)**
 * Associate Editor (2016-present)
