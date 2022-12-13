@@ -32,6 +32,8 @@ Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, 
 
 Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (submitted). ENSO impacts on Australia’s rainfall: what not to expect. *Journal of Southern Hemisphere Earth System Science*.
 
+Risbey J, Squire D, Baldissera Pacchetti M, Black A, Chapman C, Dessai S, **Irving D**, Matear R, Monselesan D, Moore T, Richardson D, Sloyan B, Tozer C (2022). [Common issues in verification of climate forecasts and projections](https://doi.org/10.3390/cli10060083). *Climate*. 10(6), 83. doi:10.3390/cli10060083 
+
 Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (2022). [Global increase in wildfire risk from compound fire weather and drought](https://doi.org/10.1038/s41612-022-00248-4). *npj Climate and Atmospheric Science*. 5, 23. doi:10.1038/s41612-022-00248-4 
 
 Sohail T, Zika J, **Irving D**, Church J (2022). [Observed poleward freshwater transport since 1970](https://doi.org/10.1038/s41586-021-04370-w). *Nature*. 602, 617–622. doi:10.1038/s41586-021-04370-w
