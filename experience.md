@@ -47,7 +47,7 @@ LaTrobe University (2003-2006)
 University of New South Wales (2019-2021)
 
 **Postdoctoral Research Fellow**,
-[CSIRO Oceans and Atmosphere](https://www.csiro.au/en/Research/OandA) (2016-2019)
+CSIRO Oceans and Atmosphere (2016-2019)
 
 **Climate Projections Scientist**,
 CSIRO Marine and Atmospheric Research (2009-2012)
