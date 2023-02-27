@@ -30,7 +30,7 @@ page_nav:
 
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (submitted). A large ensemble illustration of how record-shattering heat records can endure. *Environmental Research: Climate*.
 
-Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (submitted). ENSO impacts on Australia’s rainfall: what not to expect. *Journal of Southern Hemisphere Earth System Science*.
+Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (in press). ENSO impacts on Australia’s rainfall: what not to expect. *Journal of Southern Hemisphere Earth System Science*.
 
 Risbey J, Squire D, Baldissera Pacchetti M, Black A, Chapman C, Dessai S, **Irving D**, Matear R, Monselesan D, Moore T, Richardson D, Sloyan B, Tozer C (2022). [Common issues in verification of climate forecasts and projections](https://doi.org/10.3390/cli10060083). *Climate*. 10(6), 83. doi:10.3390/cli10060083 
 
