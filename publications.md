@@ -28,9 +28,11 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
+Sohail T, **Irving D**, Zika J, Gergory J (in preparation). Slowdown in aerosol-driven ocean heat uptake efficiency since 1980. *Geophysical Research Letters*.
+
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (submitted). A large ensemble illustration of how record-shattering heat records can endure. *Environmental Research: Climate*.
 
-Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (in press). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. doi:10.1071/ES22034
+Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
 
 Risbey J, Squire D, Baldissera Pacchetti M, Black A, Chapman C, Dessai S, **Irving D**, Matear R, Monselesan D, Moore T, Richardson D, Sloyan B, Tozer C (2022). [Common issues in verification of climate forecasts and projections](https://doi.org/10.3390/cli10060083). *Climate*. 10(6), 83. doi:10.3390/cli10060083 
 
