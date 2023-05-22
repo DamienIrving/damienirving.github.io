@@ -30,7 +30,7 @@ page_nav:
 
 Sohail T, **Irving D**, Zika J, Gergory J (in preparation). Slowdown in aerosol-driven ocean heat uptake efficiency since 1980. *Geophysical Research Letters*.
 
-Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (in press). A large ensemble illustration of how record-shattering heat records can endure. *Environmental Research: Climate*.
+Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (in press). [A large ensemble illustration of how record-shattering heat records can endure](https://doi.org/10.1088/2752-5295/acd714). *Environmental Research: Climate*. doi:10.1088/2752-5295/acd714
 
 Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
 
