@@ -50,4 +50,4 @@ with the CSIRO Climate Science Centre.
 It's impossible to study climate change and not feel compelled
 to support political candidates fully committed to addressing the problem,
 so I'm also a very active volunteer with the Tasmanian Greens,
-having been elected to number of senior positions on the State Executive.
+having been elected to number of senior positions in the party.
