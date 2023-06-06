@@ -30,6 +30,8 @@ page_nav:
 
 Sohail T, **Irving D**, Zika J, Gergory J (in preparation). Slowdown in aerosol-driven ocean heat uptake efficiency since 1980. *Geophysical Research Letters*.
 
+Tozer C, Risbey J; Pook M; Monselesan D; **Irving D**; Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
+
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (2023). [A large ensemble illustration of how record-shattering heat records can endure](https://doi.org/10.1088/2752-5295/acd714). *Environmental Research: Climate*. 2, 035003. doi:10.1088/2752-5295/acd714
 
 Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
