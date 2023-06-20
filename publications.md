@@ -177,6 +177,10 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ## Popular media  
 
+### Articles
+
+[Is climate change outpacing our ability to predict extreme heatwaves?](https://theconversation.com/is-climate-change-outpacing-our-ability-to-predict-extreme-heatwaves-207925). The Conversation, 20 June 2023.
+
 ### Public talks
 
 [How the weather works](http://www.melbournefreeuniversity.org/courses/how-weather-works/). Melbourne Free University, 19 November 2015.
