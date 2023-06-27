@@ -181,22 +181,9 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 [Is climate change outpacing our ability to predict extreme heatwaves?](https://theconversation.com/is-climate-change-outpacing-our-ability-to-predict-extreme-heatwaves-207925). The Conversation, 20 June 2023.
 
-### Public talks
-
-[How the weather works](http://www.melbournefreeuniversity.org/courses/how-weather-works/). Melbourne Free University, 19 November 2015.
-
-[Climate change: not as complicated as you might think](http://melbourne.nerdnite.com/2014/02/09/5-nerd-nite-edition/). Nerd Nite Melbourne, 1 April 2014. (see [video recording](https://www.youtube.com/watch?v=3qVp97VQQSs), [slides](https://speakerdeck.com/damienirving/climate-change-not-as-complicated-as-you-might-think))
-
-Climate change: the basics. *National Repower Summit*, Australian Youth Climate Coalition, University of Melbourne, 11 July 2012.
-
-[Climate change: the basics](http://thestar.com.au/?p=3440). *Climate Change Forum 1: Is it Real?* Groundswell Bass Coast, Wonthaggi Town Hall, 9 May 2012.  
-
-
 ### Interviews
 
 [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science). *Talk Python To Me*, podcast, 
 19 October 2017.
-
-[How do you stay up to date with digital research skills?](http://www.rrr.org.au/whats-going-on/news/how-do-you-stay-up-to-date-with-digital-research-skills/). *Byte into IT*, RRR Radio, 18 February 2015.
 
 [My digital toolbox: Climate scientist Damien Irving on Python libraries](http://www.nature.com/news/my-digital-toolbox-climate-scientist-damien-irving-on-python-libraries-1.16805). *Nature Toolbox*, 30 January 2015. 
