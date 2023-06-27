@@ -179,7 +179,7 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Articles
 
-[Is climate change outpacing our ability to predict extreme heatwaves?](https://theconversation.com/is-climate-change-outpacing-our-ability-to-predict-extreme-heatwaves-207925). The Conversation, 20 June 2023.
+[Is climate change outpacing our ability to predict extreme heatwaves?](https://theconversation.com/is-climate-change-outpacing-our-ability-to-predict-extreme-heatwaves-207925) The Conversation, 20 June 2023.
 
 ### Interviews
 
