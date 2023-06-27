@@ -64,9 +64,8 @@ CSIRO (2009-2012)
 * Melbourne Centre Chair (2012)
 
 **[The Carpentries](https://carpentries.org/)**
-* [Regional Coordinator](http://static.carpentries.org/regions_au/) for Australia (2014-present)
-* [Qualified Instructor](http://software-carpentry.org/team.html) (2013-present)
-  * Lead instructor at more than 30 workshops (see a [video recording](https://www.youtube.com/playlist?list=PLkBeePYo-_VCXtMNGDboOL66V-P2-jAoM)) 
+* [Regional Coordinator](https://carpentries.org/regions_au/) for Australia (2014-present)
+* [Qualified Instructor](https://carpentries.org/instructors/) (2013-present)
 * Member of the [interim Board of the Software Carpentry Foundation](http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html) (2014-2015)
 
 **[Research Bazaar](https://resbazblog.wordpress.com/)**  
