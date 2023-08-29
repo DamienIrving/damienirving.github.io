@@ -38,7 +38,7 @@ LaTrobe University (2003-2006)
 
 **[Climate Data Scientist](https://people.csiro.au/i/d/damien-irving)**,
 [CSIRO Climate Science Centre](https://www.csiro.au/en/research/environmental-impacts/climate-change/climate-science-centre) (2021-present)
-* Science and software development for the [Australian Climate Service](https://www.acs.gov.au/) and [CSIRO Climate Innovation Hub](https://www.csiro.au/en/about/challenges-missions/climate-mission)
+* Climate research and software development for the [Australian Climate Service](https://www.acs.gov.au/) and [CSIRO Climate Innovation Hub](https://www.csiro.au/en/about/challenges-missions/climate-mission)
 
 **Postdoctoral Research Associate**,
 [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/),
