@@ -28,6 +28,10 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
+**Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (submitted). A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia. *Meteorological Applications*.
+
+Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Papari J, Ramesh N, Richardson D, Squire D, Tozer C (submitted). On the archetypal flavours and indices of ENSO. *Journal of Climate*
+
 Sohail T, **Irving D**, Zika J, Gergory J (submitted). [Anthropogenic aerosols offsetting ocean warming less efficiently since the 1980s](https://doi.org/10.22541/essoar.168987142.28631718/v1). *Geophysical Research Letters*.
 
 Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
