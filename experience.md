@@ -81,5 +81,5 @@ CSIRO (2009-2012)
 
 **[CSIRO Staff Association](https://cpsu-csiro.org.au/)**
 * Acting Section Councillor for Tasmania (2018)
-* Workplace Delegate (2017-2019, 2022-present)
+* Workplace Delegate (2017-2019, 2022-2023)
 
