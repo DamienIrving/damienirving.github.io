@@ -58,8 +58,8 @@ CSIRO (2009-2012)
 ## Volunteering
 
 **[Australian Meteorological and Oceanographic Society](http://www.amos.org.au/)**
-* Communications Coordinator (2017-present)
 * Tasmania Secretary (2017-present)
+* Communications Coordinator (2017-2023)
 * National Secretary (2011-2017)
 * Melbourne Centre Chair (2012)
 
@@ -80,6 +80,6 @@ CSIRO (2009-2012)
 * Associate Editor (2016-present)
 
 **[CSIRO Staff Association](https://cpsu-csiro.org.au/)**
-* Acting Section Councillor for Tasmania (2018)
 * Workplace Delegate (2017-2019, 2022-2023)
+* Acting Section Councillor for Tasmania (2018)
 
