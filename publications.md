@@ -34,7 +34,7 @@ Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freu
 
 Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
 
-Sohail T, **Irving D**, Zika J, Gergory J (in press). [Anthropogenic aerosols offsetting ocean warming less efficiently since the 1980s](https://doi.org/10.1029/2023GL105374). *Geophysical Research Letters*. doi:10.1029/2023GL105374
+Sohail T, **Irving D**, Zika J, Gergory J (2023). [Anthropogenic aerosols offsetting ocean warming less efficiently since the 1980s](https://doi.org/10.1029/2023GL105374). *Geophysical Research Letters*. 50(23), e2023GL105374. doi:10.1029/2023GL105374
 
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (2023). [A large ensemble illustration of how record-shattering heat records can endure](https://doi.org/10.1088/2752-5295/acd714). *Environmental Research: Climate*. 2, 035003. doi:10.1088/2752-5295/acd714
 
