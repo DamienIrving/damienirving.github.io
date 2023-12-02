@@ -30,7 +30,7 @@ page_nav:
 
 **Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (submitted). A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia. *Meteorological Applications*.
 
-Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Papari J, Ramesh N, Richardson D, Squire D, Tozer C (submitted). On the archetypal flavours and indices of ENSO. *Journal of Climate*
+Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Papari J, Ramesh N, Richardson D, Squire D, Tozer C (submitted). On the archetypal flavours and indices of ENSO. *Journal of Climate*.
 
 Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
 
