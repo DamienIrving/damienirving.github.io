@@ -58,6 +58,7 @@ CSIRO (2009-2012)
 ## Volunteering
 
 **[Australian Meteorological and Oceanographic Society](http://www.amos.org.au/)**
+* Editor-in-Chief, [Bulletin of the Australian Meteorological and Oceanographic Society](https://www.amos.org.au/activities/publications/bamos/) (2017-present)
 * Tasmania Secretary (2017-present)
 * Communications Coordinator (2017-2023)
 * National Secretary (2011-2017)
