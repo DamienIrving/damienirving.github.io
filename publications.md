@@ -80,7 +80,7 @@ Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [C
 
 ### Books
 
-**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2021). [Research Software Engineering with Python](https://www.routledge.com/Research-Software-Engineering-with-Python-Building-software-that-makes/Irving-Hertweck-Johnston-Ostblom-Wickham-Wilson/p/book/9780367698324). Chapman & Hall / CRC Press, ISBN: 9780367698348. [[free online version](https://merely-useful.github.io/py-rse/)] 
+**Irving D**, Hertweck K, Johnston L, Ostblom J, Wickham C, Wilson G (2021). [Research Software Engineering with Python](https://www.routledge.com/Research-Software-Engineering-with-Python-Building-software-that-makes/Irving-Hertweck-Johnston-Ostblom-Wickham-Wilson/p/book/9780367698324). Chapman & Hall / CRC Press, ISBN: 9780367698348. [[free online version](https://third-bit.com/py-rse/)] 
 
 Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). CSIRO Publishing, ISBN: 9780643107137.
 
