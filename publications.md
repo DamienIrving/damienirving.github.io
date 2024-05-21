@@ -28,7 +28,7 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-**Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (submitted). A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia. *Meteorological Applications*.
+**Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (in press). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*.
 
 Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Papari J, Ramesh N, Richardson D, Squire D, Tozer C (submitted). On the archetypal flavours and indices of ENSO. *Journal of Climate*.
 
