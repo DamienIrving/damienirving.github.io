@@ -32,7 +32,7 @@ Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freu
 
 Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
 
-**Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (in press). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. doi:10.1002/MET.2217
+**Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (2024). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. 31(3), e2217. doi:10.1002/MET.2217
 
 Sohail T, **Irving D**, Zika J, Gergory J (2023). [Anthropogenic aerosols offsetting ocean warming less efficiently since the 1980s](https://doi.org/10.1029/2023GL105374). *Geophysical Research Letters*. 50(23), e2023GL105374. doi:10.1029/2023GL105374
 
