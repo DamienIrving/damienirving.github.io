@@ -28,21 +28,13 @@ page_nav:
 [Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
 [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
-Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). On the archetypal flavours and indices of ENSO.
-
-Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (submitted). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
+#### Major contribution
 
 **Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (2024). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. 31(3), e2217. doi:10.1002/MET.2217
 
 Sohail T, **Irving D**, Zika J, Gergory J (2023). [Anthropogenic aerosols offsetting ocean warming less efficiently since the 1980s](https://doi.org/10.1029/2023GL105374). *Geophysical Research Letters*. 50(23), e2023GL105374. doi:10.1029/2023GL105374
 
 Risbey J, **Irving D**, Squire D, Matear R, Monselesan D, Pook M, Richardson D, Tozer C (2023). [A large ensemble illustration of how record-shattering heat records can endure](https://doi.org/10.1088/2752-5295/acd714). *Environmental Research: Climate*. 2, 035003. doi:10.1088/2752-5295/acd714
-
-Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
-
-Risbey J, Squire D, Baldissera Pacchetti M, Black A, Chapman C, Dessai S, **Irving D**, Matear R, Monselesan D, Moore T, Richardson D, Sloyan B, Tozer C (2022). [Common issues in verification of climate forecasts and projections](https://doi.org/10.3390/cli10060083). *Climate*. 10(6), 83. doi:10.3390/cli10060083 
-
-Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (2022). [Global increase in wildfire risk from compound fire weather and drought](https://doi.org/10.1038/s41612-022-00248-4). *npj Climate and Atmospheric Science*. 5, 23. doi:10.1038/s41612-022-00248-4 
 
 Sohail T, Zika J, **Irving D**, Church J (2022). [Observed poleward freshwater transport since 1970](https://doi.org/10.1038/s41586-021-04370-w). *Nature*. 602, 617–622. doi:10.1038/s41586-021-04370-w
 
@@ -77,6 +69,18 @@ Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [C
 **Irving D**, Cook J, Young M, Menz H (2007). [Obesity and pronated foot type may increase the risk of chronic plantar heel pain: a matched case control study](https://doi.org/10.1186/1471-2474-8-41). *BMC Musculoskeletal Disorders*. 8, 41. doi:10.1186/1471-2474-8-41
 
 **Irving D**, Cook J, Menz H (2006). [Factors associated with chronic plantar heel pain: a systematic review](https://doi.org/10.1016/j.jsams.2006.02.004). *Journal of Science and Medicine in Sport*. 9, 11-22. doi:10.1016/j.sams.2006.02.004
+
+#### Minor contribution
+
+Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). [On the archetypal flavours and indices of ENSO](https://arxiv.org/abs/2406.08694).
+
+Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (in press). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
+
+Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
+
+Risbey J, Squire D, Baldissera Pacchetti M, Black A, Chapman C, Dessai S, **Irving D**, Matear R, Monselesan D, Moore T, Richardson D, Sloyan B, Tozer C (2022). [Common issues in verification of climate forecasts and projections](https://doi.org/10.3390/cli10060083). *Climate*. 10(6), 83. doi:10.3390/cli10060083 
+
+Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D, Tozer C (2022). [Global increase in wildfire risk from compound fire weather and drought](https://doi.org/10.1038/s41612-022-00248-4). *npj Climate and Atmospheric Science*. 5, 23. doi:10.1038/s41612-022-00248-4 
 
 ### Books
 
