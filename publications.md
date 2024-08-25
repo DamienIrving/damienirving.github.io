@@ -74,7 +74,7 @@ Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [C
 
 Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). [On the archetypal flavours and indices of ENSO](https://arxiv.org/abs/2406.08694).
 
-Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (in press). A tale of two Novembers: The role of continental temperatures and the subtropical jet in wet and dry extremes in Australia. *Monthly Weather Review*.
+Tozer C, Risbey J, Pook M, Monselesan D, **Irving D**, Ramesh N, Richardson D (2024). [A Tale of Two Novembers: Confounding Influences on La Niña’s Relationship with Rainfall in Australia](https://doi.org/10.1175/MWR-D-23-0112.1). *Monthly Weather Review*. 152(9), 1977-1996. doi:10.1175/MWR-D-23-0112.1
 
 Tozer C, Risbey J, Monselesan D, Pook M, **Irving D**, Reddy J, Ramesh N, Squire D (2023). [ENSO impacts on Australia’s rainfall: what not to expect](https://doi.org/10.1071/ES22034). *Journal of Southern Hemisphere Earth System Science*. 73(1), 77-81. doi:10.1071/ES22034
 
