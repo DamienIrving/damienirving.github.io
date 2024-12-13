@@ -104,6 +104,10 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 **Irving D** (2006). Factors associated with chronic plantar heel pain: a matched case-control study. Honours thesis, La Trobe University, Melbourne (unpubl.).
 
+### Datasets
+
+**Irving D**, King M, Macadam I (2024). ​Application-ready climate projections from CMIP6 using the Quantile Delta Change method. v1. CSIRO. Data Collection. https://doi.org/10.25919/03by-9y62
+
 
 ## Popular media  
 
