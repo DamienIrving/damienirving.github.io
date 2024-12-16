@@ -88,13 +88,17 @@ Richardson D, Black A, **Irving D**, Matear R, Monselesan D, Risbey J, Squire D,
 
 Rischbieth J, McGree S, Murphy B, **Irving D**, Brown J (2011). [Climate Change in the Pacific: Scientific Assessment and New Research. Volume 2: Country Reports](http://www.pacificclimatechangescience.org/publications/reports/). CSIRO Publishing, ISBN: 9780643107137.
 
-### Book Chapters
+### Book chapters
 
 Brown J, Colman R, Katzfey J, **Irving D**, Sen Gupta A, Abbs D, Perkins S (2011). [Climate model reliability](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 97-143. CSIRO Publishing, ISBN: 9781921826733.
 
 Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen Gupta A, Church J, Tilbrook B, Zhang X (2011). [Projections based on Global Climate Models](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 145-179. CSIRO Publishing, ISBN: 9781921826733.
 
 **Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. CSIRO Publishing, ISBN: 9781921826733.
+
+### Technical reports
+
+**Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
 
 ### Theses
 
@@ -103,10 +107,6 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 **Irving D** (2009). Mesoscale cyclone activity over the ice-free Southern Ocean: 1999-2008. Honours thesis, The University of Melbourne, Melbourne (unpubl.).
 
 **Irving D** (2006). Factors associated with chronic plantar heel pain: a matched case-control study. Honours thesis, La Trobe University, Melbourne (unpubl.).
-
-### Datasets
-
-**Irving D**, King M, Macadam I (2024). ​Application-ready climate projections from CMIP6 using the Quantile Delta Change method. v1. CSIRO. Data Collection. https://doi.org/10.25919/03by-9y62
 
 
 ## Popular media  
