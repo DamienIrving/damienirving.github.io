@@ -10,9 +10,9 @@ buttons:
     - content: Email
       url: 'mailto:irving.damien@gmail.com'
       external_url: true
-    - content: Twitter
-      icon: twitter
-      url: 'https://twitter.com/DrClimate'
+    - content: Bluesky
+      icon: bluesky
+      url: 'https://bsky.app/profile/drclimate.bsky.social'
       external_url: true
     - content: GitHub 
       icon: github
