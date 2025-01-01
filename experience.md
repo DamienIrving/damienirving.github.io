@@ -38,7 +38,7 @@ LaTrobe University (2003-2006)
 
 **[Climate Data Scientist](https://people.csiro.au/i/d/damien-irving)**,
 [CSIRO Climate Science Centre](https://www.csiro.au/en/research/environmental-impacts/climate-change/climate-science-centre) (2021-present)
-* Climate research and software development for the [Australian Climate Service](https://www.acs.gov.au/) and [CSIRO Climate Innovation Hub](https://www.csiro.au/en/about/challenges-missions/climate-mission)
+* Climate research and software development for the [Australian Climate Service](https://www.acs.gov.au/)
 
 **Postdoctoral Research Associate**,
 [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/),
@@ -65,22 +65,18 @@ CSIRO (2009-2012)
 * Melbourne Centre Chair (2012)
 
 **[The Carpentries](https://carpentries.org/)**
-* [Regional Coordinator](https://carpentries.org/regions_au/) for Australia (2014-present)
+* [Regional Coordinator](https://carpentries.org/community/get-connected/#subcommunities) for Australia (2014-present)
 * [Qualified Instructor](https://carpentries.org/instructors/) (2013-present)
-* Member of the [interim Board of the Software Carpentry Foundation](http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html) (2014-2015)
+* Member of the [interim Board of the Software Carpentry Foundation](https://carpentries.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational/) (2014-2015)
 
 **[Research Bazaar](https://resbazblog.wordpress.com/)**  
 * Global coordinator (2015-2020) 
-
-**[Tasmanian Greens](http://greens.org.au/tas)**
-* State Convenor (2022-present)
-* State Election Coordinator (2018-2022)
-* Branch Convenor (Denison; 2016-2018)
-
-**[Journal of Open Research Software](http://openresearchsoftware.metajnl.com/)**
-* Associate Editor (2016-present)
 
 **[CSIRO Staff Association](https://cpsu-csiro.org.au/)**
 * Workplace Delegate (2017-2019, 2022-2023)
 * Acting Section Councillor for Tasmania (2018)
 
+**[Tasmanian Greens](http://greens.org.au/tas)**
+* State Convenor (2022-present)
+* State Election Coordinator (2018-2022)
+* Branch Convenor (Denison; 2016-2018)
