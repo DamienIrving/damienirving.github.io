@@ -72,7 +72,7 @@ CSIRO (2009-2012)
 **[Research Bazaar](https://resbazblog.wordpress.com/)**  
 * Global coordinator (2015-2020) 
 
-**[CSIRO Staff Association](https://cpsu-csiro.org.au/)**
+**[CSIRO Staff Association](https://csirostaff.org.au/)**
 * Workplace Delegate (2017-2019, 2022-2023)
 * Acting Section Councillor for Tasmania (2018)
 
