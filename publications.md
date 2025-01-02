@@ -96,6 +96,10 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 **Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
 
+### Datasets
+
+Dey R, Webb L, Macadam I, **Irving D**, Bodman R, Erwin T, Kitsios V, Heady C, Thatcher M, Hennessy K, Clarke J, Rodriguez M, Hemer M, King M (2024). [Climate Innovation Hub Product 1 - Application-Ready quantile-scaled CMIP5 climate model projections for Australia](https://doi.org/10.25919/n1es-5x31). *CSIRO*. v3. doi:10.25919/n1es-5x31
+
 ### Theses
 
 **Irving D** (2016). [Characterising the zonally asymmetric features of the Southern Hemisphere extratropical circulation and their influence on regional climate variability](http://hdl.handle.net/11343/91740). PhD thesis, The University of Melbourne, Melbourne.
