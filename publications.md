@@ -23,10 +23,7 @@ page_nav:
 
 ### Refereed journal articles
 
-[ORCID](http://orcid.org/0000-0003-1258-5002) | 
-[Publons](https://publons.com/researcher/1172495/damien-irving/) | [Google Scholar](https://scholar.google.com/citations?user=Vo2Du7sAAAAJ&hl=en&oi=sra) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | 
-[Mendeley](https://www.mendeley.com/profiles/damien-irving/) |
-[ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
+[ORCID](http://orcid.org/0000-0003-1258-5002) | [Publons](https://publons.com/researcher/1172495/damien-irving/) | [Google Scholar](https://scholar.google.com/citations?user=Vo2Du7sAAAAJ&hl=en&oi=sra) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
 Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). [On the archetypal flavours and indices of ENSO](https://arxiv.org/abs/2406.08694).
 
