@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Publications
-description: Academic publications, conference presentations and media.
+description: Academic publications and popular media.
 
 
 # Micro navigation
