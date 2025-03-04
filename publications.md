@@ -25,6 +25,8 @@ page_nav:
 
 ### Refereed journal articles
 
+Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (submitted). Extreme rainfall archetypes for Australia. *Weather and Climate Extremes*.  
+
 Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). [On the archetypal flavours and indices of ENSO](https://arxiv.org/abs/2406.08694).
 
 **Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (2024). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. 31(3), e2217. doi:10.1002/MET.2217
