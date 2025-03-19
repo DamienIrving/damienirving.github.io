@@ -21,13 +21,14 @@ page_nav:
 
 ## Publications
 
-[ORCID](http://orcid.org/0000-0003-1258-5002) | [Publons](https://publons.com/researcher/1172495/damien-irving/) | [Google Scholar](https://scholar.google.com/citations?user=Vo2Du7sAAAAJ&hl=en&oi=sra) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
+[ORCID](http://orcid.org/0000-0003-1258-5002) | [Publons](https://publons.com/researcher/1172495/damien-irving/) | 
+[Google Scholar](https://scholar.google.com/citations?user=Vo2Du7sAAAAJ&hl=en&oi=sra) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36634371000) | [ResearchGate](https://www.researchgate.net/profile/Damien_Irving)
 
 ### Refereed journal articles
 
-Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (submitted). Extreme rainfall archetypes for Australia. *Weather and Climate Extremes*.  
+Irving D, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (in prep). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. 
 
-Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (in prep). [On the archetypal flavours and indices of ENSO](https://arxiv.org/abs/2406.08694).
+Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (submitted). Extreme rainfall archetypes for Australia. *Journal of Southern Hemisphere Earth Systems Science*.  
 
 **Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (2024). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. 31(3), e2217. doi:10.1002/MET.2217
 
@@ -76,6 +77,11 @@ Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [C
 **Irving D**, Cook J, Young M, Menz H (2007). [Obesity and pronated foot type may increase the risk of chronic plantar heel pain: a matched case control study](https://doi.org/10.1186/1471-2474-8-41). *BMC Musculoskeletal Disorders*. 8, 41. doi:10.1186/1471-2474-8-41
 
 **Irving D**, Cook J, Menz H (2006). [Factors associated with chronic plantar heel pain: a systematic review](https://doi.org/10.1016/j.jsams.2006.02.004). *Journal of Science and Medicine in Sport*. 9, 11-22. doi:10.1016/j.sams.2006.02.004
+
+### Preprints (not published elsewhere)
+
+Monselesan D, Risbey J, Legresy B, Cravatte S, Pagli B, Izumo T, Chapman C, Freund M, Hannachi A, **Irving D**, Reddy J, Ramesh N, Richardson D, Squire D, Tozer C (2024). [On the archetypal flavours and indices of ENSO](https://doi.org/10.48550/arXiv.2406.08694). *arXiv*. doi:10.48550/arXiv.2406.08694
+
 
 ### Books
 
