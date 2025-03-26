@@ -102,6 +102,8 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Datasets
 
+Gammon A, **Irving D**, Peter J (2025). [CORDEX-CMIP6-based regridded and calibrated data for Australia](https://doi.org/10.25914/XECA-PW53). *NCI Australia*. doi:10.25914/XECA-PW53
+
 Dey R, Webb L, Macadam I, **Irving D**, Bodman R, Erwin T, Kitsios V, Heady C, Thatcher M, Hennessy K, Clarke J, Rodriguez M, Hemer M, King M (2024). [Climate Innovation Hub Product 1 - Application-Ready quantile-scaled CMIP5 climate model projections for Australia](https://doi.org/10.25919/n1es-5x31). *CSIRO*. v3. doi:10.25919/n1es-5x31
 
 ### Theses
