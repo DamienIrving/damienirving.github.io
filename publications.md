@@ -25,7 +25,7 @@ page_nav:
 
 ### Refereed journal articles
 
-**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (in prep). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. 
+**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. 
 
 Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (submitted). Extreme rainfall archetypes for Australia. *Journal of Southern Hemisphere Earth Systems Science*.  
 
