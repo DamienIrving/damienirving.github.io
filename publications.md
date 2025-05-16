@@ -25,7 +25,9 @@ page_nav:
 
 ### Refereed journal articles
 
-**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. 
+Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C, Squire D (in prep). Soft temperature records across Australia. *Meteorological Applications*.
+
+**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
 Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (submitted). Extreme rainfall archetypes for Australia. *Journal of Southern Hemisphere Earth Systems Science*.  
 
@@ -101,6 +103,14 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 **Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
 
 ### Datasets
+
+**Irving D**, Macadam I, King M, Erwin T (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (time-slices, 5km grid)](http://hdl.handle.net/102.100.100/705992?index=1). *CSIRO*. v1. hdl:102.100.100/705992
+
+**Irving D**, Macadam I, King, M (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (time slices, 11km grid)](http://hdl.handle.net/102.100.100/705991). *CSIRO*. v1. doi:10.25919/nc64-tx11 
+
+**Irving D**, Macadam I, King, M (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (global warming levels, 11km grid)](http://hdl.handle.net/102.100.100/705993). *CSIRO*. v1. doi:10.25919/w3w4-5984 
+
+**Irving D**, Macadam I, King, M (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (global warming levels, 5km grid)](http://hdl.handle.net/102.100.100/705994). *CSIRO*. v1. doi:10.25919/mywe-tz19
 
 Gammon A, **Irving D**, Peter J (2025). [CORDEX-CMIP6-based regridded and calibrated data for Australia](https://doi.org/10.25914/XECA-PW53). *NCI Australia*. doi:10.25914/XECA-PW53
 
