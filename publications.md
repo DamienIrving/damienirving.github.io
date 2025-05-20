@@ -25,7 +25,7 @@ page_nav:
 
 ### Refereed journal articles
 
-Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C, Squire D (in prep). Soft temperature records across Australia. *Meteorological Applications*.
+Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C, Squire D (in prep). Soft temperature records across Australia.
 
 **Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
@@ -99,6 +99,10 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 **Irving D**, Hennessy K, Katzfey J, Kokic P, Abbs D (2011). [Climate projection methodology](http://www.pacificclimatechangescience.org/publications/reports/). In G Cambers, K Hennessy, S Power (eds.), *Climate Change in the Pacific: Scientific Assessment and New Research. Volume 1: Regional Overview*. pp. 79-96. CSIRO Publishing, ISBN: 9781921826733.
 
 ### Technical reports
+
+CSIRO and Bureau of Meteorology (2025). [Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary](https://doi.org/10.25919/9bde-a338). *CSIRO*. doi:10.25919/9bde-a338
+
+CSIRO. Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary. Hobart, Australia: CSIRO & Bureau of Meteorology; 2025. csiro:EP2025-1632. 
 
 **Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
 
