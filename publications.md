@@ -102,8 +102,6 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 CSIRO and Bureau of Meteorology (2025). [Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary](https://doi.org/10.25919/9bde-a338). *CSIRO*. doi:10.25919/9bde-a338
 
-CSIRO. Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary. Hobart, Australia: CSIRO & Bureau of Meteorology; 2025. csiro:EP2025-1632. 
-
 **Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
 
 ### Datasets
