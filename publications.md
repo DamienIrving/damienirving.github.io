@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Publications
-description: Academic publications and popular media.
+description: Academic publications, educational resources and media.
 
 
 # Micro navigation
@@ -125,6 +125,18 @@ Dey R, Webb L, Macadam I, **Irving D**, Bodman R, Erwin T, Kitsios V, Heady C, T
 **Irving D** (2009). Mesoscale cyclone activity over the ice-free Southern Ocean: 1999-2008. Honours thesis, The University of Melbourne, Melbourne (unpubl.).
 
 **Irving D** (2006). Factors associated with chronic plantar heel pain: a matched case-control study. Honours thesis, La Trobe University, Melbourne (unpubl.).
+
+
+## Educational resources
+
+Python for Atmosphere and Ocean Science: *Community information and resources*.  
+https://pyaos.github.io/
+
+Python for Atmosphere and Ocean Scientists: *Self-guided lessons and workshop materials*.  
+https://carpentries-lab.github.io/python-aos-lesson/
+
+Research Software Engineering with Python: *Online textbook*.  
+https://third-bit.com/py-rse/
 
 
 ## Popular media  
