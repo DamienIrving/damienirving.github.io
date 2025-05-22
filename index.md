@@ -33,7 +33,7 @@ grid_navigation:
       cta: Read more
       url: '/experience'
     - title: Publications
-      excerpt: Academic publications, conference presentations and media.
+      excerpt: Academic publications, educational resources and media.
       cta: Read more
       url: '/publications'
 ---
