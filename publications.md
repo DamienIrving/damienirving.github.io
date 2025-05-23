@@ -130,13 +130,13 @@ Dey R, Webb L, Macadam I, **Irving D**, Bodman R, Erwin T, Kitsios V, Heady C, T
 ## Educational resources
 
 Python for Atmosphere and Ocean Science: *Community information and resources*.  
-https://pyaos.github.io/
+[https://pyaos.github.io/](https://pyaos.github.io/)
 
 Python for Atmosphere and Ocean Scientists: *Self-guided lessons and workshop materials*.  
-https://carpentries-lab.github.io/python-aos-lesson/
+[https://carpentries-lab.github.io/python-aos-lesson/](https://carpentries-lab.github.io/python-aos-lesson/)
 
 Research Software Engineering with Python: *Online textbook*.  
-https://third-bit.com/py-rse/
+[https://third-bit.com/py-rse/](https://third-bit.com/py-rse/)
 
 
 ## Popular media  
