@@ -25,7 +25,7 @@ page_nav:
 
 ### Refereed journal articles
 
-Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C (in prep). Soft temperature records across Australia.
+Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C (in prep). A soft record analysis of extreme heat across Australia.
 
 **Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
