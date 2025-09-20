@@ -100,6 +100,8 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Technical reports
 
+Jakob D, Risbey J, Bahramian K, Bende-Michl U, Benger N, Bhardwaj J, Black M, Bongiovanni K, Bourbon H, Buchanan P, Carrara E, Do C, Evans A, Fox-Hughes P, Gammon A, Gregory R, Griesser A, Grose M, Hague B, Hoffmann D, Howard E, **Irving D**, Jacobs S, Jones D, Maguire S, Matear R, Narsey S, O’Grady J, Oke A, Osbrough S, Parker T, Pepler A, Peter J, Ramsay H, Rafter T, Rogers C, Sharples W, Stassen C, Stellema A, Su C-H, Takbash A, Thatcher M, Tolhurst G, Tozer C, Udy D, Watkins A, Zhang X (2025). [Climate Hazard Information developed for use in Climate Risk Assessment](https://www.bom.gov.au/research/publications/researchreports/BRR-116.pdf). *Bureau Research Report No. 116*. ISBN: 9781923469082. 
+
 CSIRO and Bureau of Meteorology (2025). [Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary](https://doi.org/10.25919/9bde-a338). *CSIRO*. doi:10.25919/9bde-a338
 
 **Irving D**, Macadam I (2024). [​Application-ready climate projections from CMIP6 using the Quantile Delta Change method](https://doi.org/10.25919/03by-9y62). *CSIRO*. doi:10.25919/03by-9y62
