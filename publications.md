@@ -29,7 +29,7 @@ page_nav:
 
 Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (in press). [Extreme monthly rainfall archetypes for Australia](https://doi.org/10.1071/ES25016). *Journal of Southern Hemisphere Earth Systems Science*. doi:10.1071/ES25016
 
-Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C (in press). [A soft record analysis of extreme heat across Australia](https://doi.org/10.1002/met.70118). *Meteorological Applications*. doi:10.1002/met.70118
+Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C (2025). [A soft record analysis of extreme heat across Australia](https://doi.org/10.1002/met.70118). *Meteorological Applications*. 32(6), e70118. doi:10.1002/met.70118
 
 **Irving D**, Risbey J, Squire D, Matear R, Tozer C, Monselesan D, Ramesh N, Reddy J, Freund M (2024). [A multi-model likelihood analysis of unprecedented extreme rainfall along the east coast of Australia](https://doi.org/10.1002/MET.2217). *Meteorological Applications*. 31(3), e2217. doi:10.1002/MET.2217
 
