@@ -108,6 +108,8 @@ CSIRO and Bureau of Meteorology (2025). [Australian Climate Service CMIP6-Next G
 
 ### Datasets
 
+**Irving D**, Stellema A, Risbey J (2025). [CMIP6 exceedance likelihoods for climate extremes](http://hdl.handle.net/102.100.100/711695). *CSIRO*. v1. hdl:102.100.100/711695
+
 **Irving D**, Macadam I, King M, Erwin T (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (time-slices, 5km grid)](http://hdl.handle.net/102.100.100/705992?index=1). *CSIRO*. v1. hdl:102.100.100/705992
 
 **Irving D**, Macadam I, King, M (2025). [Application-ready quantile-delta-change (QDC) scaled CMIP6 climate projections for Australia (time slices, 11km grid)](http://hdl.handle.net/102.100.100/705991). *CSIRO*. v1. doi:10.25919/nc64-tx11 
