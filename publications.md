@@ -27,7 +27,7 @@ page_nav:
 
 **Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
-Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (in press). [Extreme monthly rainfall archetypes for Australia](https://doi.org/10.1071/ES25016). *Journal of Southern Hemisphere Earth Systems Science*. doi:10.1071/ES25016
+Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (2025). [Extreme monthly rainfall archetypes for Australia](https://doi.org/10.1071/ES25016). *Journal of Southern Hemisphere Earth Systems Science*. 75(3), ES25016. doi:10.1071/ES25016
 
 Stellema A, **Irving D**, Risbey J, Monselesan D, Parker T, Ramesh N, Tozer C (2025). [A soft record analysis of extreme heat across Australia](https://doi.org/10.1002/met.70118). *Meteorological Applications*. 32(6), e70118. doi:10.1002/met.70118
 
