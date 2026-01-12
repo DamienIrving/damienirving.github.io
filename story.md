@@ -22,7 +22,7 @@ Back in November 2006, I was a newly graduated physiotherapist.
 While all my friends were off finding jobs in hospitals and sports medicine clinics,
 I inexplicably enrolled in a Bachelor of Science.
 You see, during the final year of my physio studies,
-my girlfriend's father – who also happened to be an oceanographer – suggested that
+my roommate's father – who also happened to be an oceanographer – suggested that
 I read Tim Flannery's best-seller, *The Weather Makers*.
 Ever since reading that book,
 I've been fascinated by the workings of the climate system. 
