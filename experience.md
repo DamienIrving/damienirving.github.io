@@ -83,8 +83,8 @@ CSIRO (2009-2012)
 
 ## Awards
 
-**Australia Day Achievement Medallion Award (2026)**
+**Australia Day Achievement Medallion Award (2026)**  
 [Awarded](https://my.csiro.au/News/All-staff/2026/February/Australia-Day-Honours-2026) to the National Climate Risk Assessment team
 
-**The CSIRO Trusted Award (2025)**
+**The CSIRO Trusted Award (2025)**  
 [Awarded](https://www.csiro.au/en/about/csiro-awards) to the CSIRO Future Climate and Hazards Team
