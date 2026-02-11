@@ -80,3 +80,11 @@ CSIRO (2009-2012)
 * State Convenor (2022-present)
 * State Election Coordinator (2018-2022)
 * Branch Convenor (Denison; 2016-2018)
+
+## Awards
+
+**Australia Day Achievement Medallion Award (2026)**
+[Awarded](https://my.csiro.au/News/All-staff/2026/February/Australia-Day-Honours-2026) to the National Climate Risk Assessment team
+
+**The CSIRO Trusted Award (2025)**
+[Awarded](https://www.csiro.au/en/about/csiro-awards) to the CSIRO Future Climate and Hazards Team
