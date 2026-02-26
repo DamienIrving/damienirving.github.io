@@ -27,7 +27,7 @@ page_nav:
 
 Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (submitted). Categorical forecasts of El Nino-Southern Oscillation phase one year in advance. *npj Climate and Atmospheric Science*.
 
-Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (submitted). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Earth's Future*.
+Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (submitted). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
 
 **Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
