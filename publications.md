@@ -25,7 +25,7 @@ page_nav:
 
 ### Refereed journal articles
 
-Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (submitted). Categorical forecasts of El Nino-Southern Oscillation phase one year in advance. *npj Climate and Atmospheric Science*.
+Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (submitted). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
 
 Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (submitted). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
 
