@@ -69,7 +69,7 @@ Devenyi G, Emonet R, Harris R, Hertweck K, **Irving D**, Milligan I, Wilson G (2
 
 Grose M, Brown J, Narsey S, Brown J, Murphy B, Langlais C, Sen Gupta A, Moise F, **Irving D** (2014). [Assessment of the CMIP5 global climate model simulations of the western tropical Pacific climate system and comparison to CMIP3](https://doi.org/10.1002/joc.3916). *International Journal of Climatology*. 34, 3382-3399. doi:10.1002/joc.3916
 
-**Irving D**, Whetton P, Moise A (2012). [Climate projections for Australia: a first glance at CMIP5](http://www.bom.gov.au/amoj/papers.php?year=2012). *Australian Meteorological and Oceanographic Journal*. 62, 211-225.
+**Irving D**, Whetton P, Moise A (2012). [Climate projections for Australia: a first glance at CMIP5](https://connectsci.au/es/article/62/4/211/264532/Climate-projections-for-Australia-a-first-glance). *Australian Meteorological and Oceanographic Journal*. 62, 211-225.
 
 Perkins S, **Irving D**, Brown J, Power S, Moise A, Colman R, Smith I (2012). [CMIP3 ensemble climate projections over the western tropical Pacific based on model skill](https://doi.org/10.3354/cr01046). *Climate Research*. 51, 35-38. doi:10.3354/cr01046
 
