@@ -25,11 +25,14 @@ page_nav:
 
 ### Refereed journal articles
 
-Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (submitted). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
+<!-- Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumolu U, Parker T, Ramesh N, Risbey J, Thomas D (submitted). From bad to good years: harvesting multiyear wet and dry statistics in large ensembles to inform decision making in agriculture. *Journal of Applied Meteorology and Climatology*. -->
+**Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (submitted). Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles. *Environmental Research Letters*.
 
-Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (submitted). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
+Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (under review). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
 
-**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (submitted). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
+Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (under review). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
+
+**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (under review). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
 Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (2025). [Extreme monthly rainfall archetypes for Australia](https://doi.org/10.1071/ES25016). *Journal of Southern Hemisphere Earth Systems Science*. 75(3), ES25016. doi:10.1071/ES25016
 
