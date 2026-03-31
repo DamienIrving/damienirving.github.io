@@ -32,7 +32,7 @@ Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Ste
 
 Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (under review). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
 
-**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (in press). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
+**Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (in press). An intercomparison of climate model bias correction methods across Australia. *Journal of Southern Hemisphere Earth Systems Science*. doi:10.1071/ES25023 (see [pre-print](https://github.com/AusClimateService/npcp/blob/master/reports/phase1/phase1_report.md))
 
 Risbey J, Monselesan D, Chapman C, Chung C, Hannachi A, **Irving D**, Parker T, Pook M, Ramesh N, Stellema A, Tozer C (2025). [Extreme monthly rainfall archetypes for Australia](https://doi.org/10.1071/ES25016). *Journal of Southern Hemisphere Earth Systems Science*. 75(3), ES25016. doi:10.1071/ES25016
 
