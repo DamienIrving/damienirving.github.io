@@ -25,8 +25,9 @@ page_nav:
 
 ### Refereed journal articles
 
-<!-- Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumolu U, Parker T, Ramesh N, Risbey J, Thomas D (submitted). From bad to good years: harvesting multiyear wet and dry statistics in large ensembles to inform decision making in agriculture. *Journal of Applied Meteorology and Climatology*. -->
-**Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (submitted). Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles. *Environmental Research Letters*.
+Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumolu U, Parker T, Ramesh N, Risbey J, Thomas D (submitted). From bad to good years: harvesting multiyear wet and dry statistics in large ensembles to inform decision making in agriculture. *Journal of Applied Meteorology and Climatology*.
+
+**Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (under review). Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles. *Environmental Research Letters*.
 
 Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (under review). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
 
