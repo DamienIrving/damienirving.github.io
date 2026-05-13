@@ -45,9 +45,12 @@ co-authored the textbook [*Research Software Engineering with Python*](https://m
 and maintain the [PyAOS](https://pyaos.github.io/) online community resource for
 Python users in atmosphere and ocean science.
 I'm currently putting these skills to use working as a climate data scientist
-with the CSIRO Climate Science Centre.
+with CSIRO Environment.
+This work involves the generation and maintenance of key datasets that underpin national climate projections
+and research to improve our understanding of the risk of extreme weather through the
+[Large Ensemble Assessment Project](https://research.csiro.au/leap/). 
 
 It's impossible to study climate change and not feel compelled
 to support political candidates fully committed to addressing the problem,
-so I'm also a very active volunteer with the Tasmanian Greens,
+so in my spare time I'm also a very active volunteer with the Tasmanian Greens,
 having been elected to number of senior positions in the party.
