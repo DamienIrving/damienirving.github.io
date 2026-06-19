@@ -25,6 +25,8 @@ page_nav:
 
 ### Refereed journal articles
 
+<!-- Peter J, Kapoor A, Gammon A, Dao TL, Benger N, Tory K, Jakob D, Irving D, Takbash A, Grose M, Black M (in preparation). The effect of univariate and multivariate bias correction on a multivariate fire hazard index. Journal of Geophysical Research: Atmospheres. -->
+
 Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumolu U, Parker T, Ramesh N, Risbey J, Thomas D (submitted). From bad to good years: harvesting multiyear wet and dry statistics in large ensembles to inform decision making in agriculture. *Journal of Applied Meteorology and Climatology*.
 
 **Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (under review). Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles. *Environmental Research Letters*.
