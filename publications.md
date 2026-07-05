@@ -33,9 +33,9 @@ Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumol
 
 Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (under review). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
 
-**Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (under review). Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles. *Environmental Research Letters*.
-
 Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (under review). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
+
+**Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (in press). [Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles](https://doi.org/10.1088/1748-9326/ae860d). *Environmental Research Letters*. doi:10.1088/1748-9326/ae860d
 
 **Irving D**, Takbash A, Peter J, Gammon A, Dowdy A, Dao TL, Kapoor A, Black M, Jakob D, Grose M (2026). [An intercomparison of climate model bias correction methods across Australia](https://doi.org/10.1071/ES25023). *Journal of Southern Hemisphere Earth Systems Science*. 76(2), ES25023. doi:10.1071/ES25023
 
