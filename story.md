@@ -36,7 +36,7 @@ looking at Southern Hemisphere planetary waves
 before taking up postdoctoral positions at CSIRO and then UNSW
 to study anthropogenic changes in the global energy and water cycles.
 
-Throughout these climate research roles,
+Throughout my PhD and postdoctoral years,
 I developed and maintained a strong interest data science education
 and open/reproducible research.
 I’ve been an instructor, lesson author and regional coordinator with
@@ -44,8 +44,8 @@ I’ve been an instructor, lesson author and regional coordinator with
 co-authored the textbook [*Research Software Engineering with Python*](https://merely-useful.tech/py-rse/),
 and maintain the [PyAOS](https://pyaos.github.io/) online community resource for
 Python users in atmosphere and ocean science.
-I'm currently putting these skills to use working as a climate data scientist
-with CSIRO Environment.
+
+I'm currently working as a [climate scientist](https://people.csiro.au/i/d/damien-irving) with CSIRO Environment.
 This work involves the generation and maintenance of key datasets that underpin national climate projections
 and research to improve our understanding of the risk of extreme weather through the
 [Large Ensemble Assessment Project](https://research.csiro.au/leap/). 
