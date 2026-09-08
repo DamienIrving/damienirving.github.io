@@ -41,7 +41,7 @@ I developed and maintained a strong interest data science education
 and open/reproducible research.
 I’ve been an instructor, lesson author and regional coordinator with
 [The Carpentries](https://carpentries.org/) for many years,
-co-authored the textbook [*Research Software Engineering with Python*](https://merely-useful.tech/py-rse/),
+co-authored the textbook [*Research Software Engineering with Python*](https://drclimate.wordpress.com/2021/07/08/we-wrote-a-book/),
 and maintain the [PyAOS](https://pyaos.github.io/) online community resource for
 Python users in atmosphere and ocean science.
 
