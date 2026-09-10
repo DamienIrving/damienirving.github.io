@@ -112,9 +112,9 @@ Hennessy K, **Irving D**, Perkins S, Murphy B, Brown J, Moise A, Colman R, Sen G
 
 ### Technical reports
 
-<!-- CSIRO and Bureau of Meteorology (2026). Using historic compound event case studies to derive climate change lessons for emergency managers: a tropical cyclone and an east coast low. *CSIRO*. doi: -->
+Grose M, Echevarria E, Hoeke R, Hernaman V, Hope P, Zhou L, McKay R, **Irving D**, Stellema A, Risbey J, Ramsay H, Pepler A, Lin Y, Zhang X, Hague B, Bende-Michl U, Su C-H, Rogers C, Trewin B (2026). [Using historic compound event case studies to derive climate change lessons for emergency managers: a tropical cyclone and an east coast low](https://doi.org/10.25919/75pt-3424). *CSIRO*. doi:10.25919/75pt-3424
 
-Jakob D, Risbey J, Bahramian K, Bende-Michl U, Benger N, Bhardwaj J, Black M, Bongiovanni K, Bourbon H, Buchanan P, Carrara E, Do C, Evans A, Fox-Hughes P, Gammon A, Gregory R, Griesser A, Grose M, Hague B, Hoffmann D, Howard E, **Irving D**, Jacobs S, Jones D, Maguire S, Matear R, Narsey S, O’Grady J, Oke A, Osbrough S, Parker T, Pepler A, Peter J, Ramsay H, Rafter T, Rogers C, Sharples W, Stassen C, Stellema A, Su C-H, Takbash A, Thatcher M, Tolhurst G, Tozer C, Udy D, Watkins A, Zhang X (2025). [Climate Hazard Information developed for use in Climate Risk Assessment](https://trove.nla.gov.au/work/264130302). *Bureau Research Report No. 116*. ISBN: 9781923469082. 
+Jakob D, Risbey J, Bahramian K, Bende-Michl U, Benger N, Bhardwaj J, Black M, Bongiovanni K, Bourbon H, Buchanan P, Carrara E, Do C, Evans A, Fox-Hughes P, Gammon A, Gregory R, Griesser A, Grose M, Hague B, Hoffmann D, Howard E, **Irving D**, Jacobs S, Jones D, Maguire S, Matear R, Narsey S, O’Grady J, Oke A, Osbrough S, Parker T, Pepler A, Peter J, Ramsay H, Rafter T, Rogers C, Sharples W, Stassen C, Stellema A, Su C-H, Takbash A, Thatcher M, Tolhurst G, Tozer C, Udy D, Watkins A, Zhang X (2025). [Climate Hazard Information developed for use in Climate Risk Assessment](https://trove.nla.gov.au/work/264130302). *Bureau Research Report No. 116*. ISBN: 9781923469082
 
 CSIRO and Bureau of Meteorology (2025). [Australian Climate Service CMIP6-Next Generation downscaled climate change projections: approach and summary](https://doi.org/10.25919/9bde-a338). *CSIRO*. doi:10.25919/9bde-a338
 
