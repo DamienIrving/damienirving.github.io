@@ -33,7 +33,7 @@ Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumol
 
 Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (under review). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
 
-Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (under review). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
+Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (in press). Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia. *Journal of Geophysical Research: Biogeosciences*.
 
 **Irving D**, Stellema A, Monselesan D, Parker T, Ramesh N, Tozer C, Risbey J (2026). [Quantifying the uncertainty associated with extreme weather likelihood estimates derived from large model ensembles](https://doi.org/10.1088/1748-9326/ae860d). *Environmental Research Letters*. 21(13), 134041. doi:10.1088/1748-9326/ae860d
 
