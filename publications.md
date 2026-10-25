@@ -31,7 +31,7 @@ Jones D, Matear R, Jakob D, Risbey J, Maguire S, Grose M, Narsey S, Spillman C, 
 
 Tozer C, Stellema A, Darbyshire R, Hayman P, **Irving D**, Monselesan D, Nidumolu U, Parker T, Ramesh N, Risbey J, Thomas D (under review). From bad to good years: harvesting multiyear wet and dry statistics in large ensembles to inform decision making in agriculture. *Journal of Applied Meteorology and Climatology*.
 
-Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (in press). Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance. *Science Advances*.
+Ramesh N, Freund M, **Irving D**, Squire D, Tozer C, Monselesan D, Parker T, Stellema A, Risbey J (2026). [Using initial states to identify successful El Niño-Southern Oscillation forecasts one year in advance](https://doi.org/10.1126/sciadv.aeg8654). *Science Advances*. 12(43), eaeg8654. doi:10.1126/sciadv.aeg8654
 
 Bennett A, Harman I, **Irving D**, Briggs P, Thatcher M, Canadell J (2026). [Source or sink? Precipitation shapes future terrestrial carbon uptake in Australia](https://doi.org/10.1029/2026JG009820). *Journal of Geophysical Research: Biogeosciences*. 131(10), e2026JG009820. doi:10.1029/2026JG009820
 
